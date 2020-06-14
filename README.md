@@ -21,7 +21,12 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 <img width="618" alt="Screen Shot 2020-06-14 at 1 00 26 PM" src="https://user-images.githubusercontent.com/56641651/84599308-077c9800-ae3f-11ea-903a-8c73fc9619f0.png">
 
-
+**This portfolio** 
+* Is updated and showcases some recent projects, including links to their deployed versions and GitHub repos. 
+* Has links to my GItHub page.
+* Has a link to a PDF version of my resume.
+* Has a link to my LinkedIn page.
+* Has my contact information. 
 
 
 **Sample Code**
