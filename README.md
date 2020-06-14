@@ -28,9 +28,6 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 **Sample Code**
 
 
-<!doctype html>
-<html lang="en">
-  <head>
     <!-- Required meta tags -->
     
     <meta charset="utf-8">
