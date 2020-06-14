@@ -1,46 +1,37 @@
-**Natasha Gilani - Sample Portfolio Website** 
+**Natasha Gilani - Updated Portfolio Website** 
 
 **Synopsis**
 
-This is a simple minimilistic portfolio website created using HTML 5 and Bootstrap 4.0 components. The portfolio has three pages: 
+This is a simple minimilistic portfolio website created using HTML 5 and Bootstrap 4.0 components. The portfolio has two pages: 
 
 * **Home page** with a two column layout and a CTA for access to the portfolio itself. Page is index.html
-* **Portfolio page**, with a Jumbotron and a 4x3 grid with thumbnails of photographs. Each thumbnail redirects to where the images are actually hosted (on my personal Facebook page). Thumbnails in the first two rows are 260px x 200px and images in the last row are 260px x 290px. Page is portfolio.html. 
-* **Contact page**, with a simple contact form allowing people to contact me. 
+* **Portfolio page**, with a Jumbotron and a 2x3 grid with thumbnails of images. Each thumbnail redirects to a deployed version of the app. 
+//Contact page removed in version 2
 
 All pages are fully responsive, have a simple nav-bar and a sticky footer (Portfolio and Contact page have a footer with social links, email address and an address). 
 
-**Screenshots**
+**Home page screenshot** 
 
 
 <img width="800" alt="Home-screenshot" src="https://user-images.githubusercontent.com/56641651/73613489-31d26500-45c4-11ea-9508-ec7f4640c8a3.png">
 
 
-**Home page screenshot** 
-
-
-<img width="800" alt="Portfolio-screenshot" src="https://user-images.githubusercontent.com/56641651/73613565-1451cb00-45c5-11ea-9be4-4c32b2bf80b7.png">
-
-
 **Portfolio page screenshot** 
 
 
+<img width="618" alt="Screen Shot 2020-06-14 at 1 00 26 PM" src="https://user-images.githubusercontent.com/56641651/84599308-077c9800-ae3f-11ea-903a-8c73fc9619f0.png">
 
-<img width="800" alt="Contact-screenshot" src="https://user-images.githubusercontent.com/56641651/73613584-6266ce80-45c5-11ea-88ae-f7ccdb853986.png">
-
-
-**Contact page screenshot** 
-
-
-
+**This portfolio** 
+* Is updated and showcases some recent projects, including links to their deployed versions and GitHub repos. 
+* Has links to my GItHub page.
+* Has a link to a PDF version of my resume.
+* Has a link to my LinkedIn page.
+* Has my contact information. 
 
 
 **Sample Code**
 
 
-<!doctype html>
-<html lang="en">
-  <head>
     <!-- Required meta tags -->
     
     <meta charset="utf-8">
@@ -80,7 +71,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 **Installation**
-To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Portfolio. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Updated-Portfolio-1. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
 
 **License**
 This website belongs to Natasha Gilani. All Rights Reserved. 
