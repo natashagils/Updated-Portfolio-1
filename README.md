@@ -26,7 +26,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 
-<img width="800" alt="Contact-screenshot" src="https://user-images.githubusercontent.com/56641651/73613584-6266ce80-45c5-11ea-88ae-f7ccdb853986.png">
+<img width="618" alt="Screen Shot 2020-06-14 at 1 00 26 PM" src="https://user-images.githubusercontent.com/56641651/84599308-077c9800-ae3f-11ea-903a-8c73fc9619f0.png">
 
 
 **Contact page screenshot** 
@@ -80,7 +80,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 **Installation**
-To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Portfolio. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Updated-Portfolio-1. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
 
 **License**
 This website belongs to Natasha Gilani. All Rights Reserved. 
