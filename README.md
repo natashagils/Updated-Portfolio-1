@@ -10,16 +10,10 @@ This is a simple minimilistic portfolio website created using HTML 5 and Bootstr
 
 All pages are fully responsive, have a simple nav-bar and a sticky footer (Portfolio and Contact page have a footer with social links, email address and an address). 
 
-**Screenshots**
-
-
-<img width="800" alt="Home-screenshot" src="https://user-images.githubusercontent.com/56641651/73613489-31d26500-45c4-11ea-9508-ec7f4640c8a3.png">
-
-
 **Home page screenshot** 
 
 
-<img width="800" alt="Portfolio-screenshot" src="https://user-images.githubusercontent.com/56641651/73613565-1451cb00-45c5-11ea-9be4-4c32b2bf80b7.png">
+<img width="800" alt="Home-screenshot" src="https://user-images.githubusercontent.com/56641651/73613489-31d26500-45c4-11ea-9508-ec7f4640c8a3.png">
 
 
 **Portfolio page screenshot** 
@@ -27,10 +21,6 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 <img width="618" alt="Screen Shot 2020-06-14 at 1 00 26 PM" src="https://user-images.githubusercontent.com/56641651/84599308-077c9800-ae3f-11ea-903a-8c73fc9619f0.png">
-
-
-**Contact page screenshot** 
-
 
 
 
